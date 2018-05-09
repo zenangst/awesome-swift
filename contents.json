@@ -5771,6 +5771,12 @@
       "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
       "homepage": "https://github.com/okhanokbay/MapViewPlus",
       "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
+    },
+    {
+      "title": "Differific",
+      "category": "utility",
+      "description": "A fast and convenient diffing framework.",
+      "homepage": "https://github.com/zenangst/Differific"
     }
   ]
 }
